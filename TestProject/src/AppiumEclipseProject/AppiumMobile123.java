@@ -1,8 +1,9 @@
 
 
-// How to resolved merge conflict. https://www.youtube.com/watch?v=JtIX3HJKwfo
+// How to resolved merge conflict. https://www.youtube.com/watch?v=JtIX3HJKwfo - Changes has been made by the team lead.
 
 // How to create a branch // https://www.youtube.com/watch?v=WSWnch-SyPM
+
 
 
 package AppiumEclipseProject;
