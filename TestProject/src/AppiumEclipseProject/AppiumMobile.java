@@ -19,6 +19,8 @@ public class AppiumMobile {
 		System.out.println("Test 2");
 		
 		System.out.println("Test 3");
+		
+		Systen.out.println("test 4");
 
 
 	}
